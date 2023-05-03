@@ -1,4 +1,4 @@
 # 8CC00
-Course 8CC00: Advanced programming and biomedical data analysis
+Github repository for the course 8CC00: Advanced programming and biomedical data analysis.
 
 
